@@ -1,10 +1,10 @@
 .App {
   text-align: center;
-  background: linear-gradient(to left, #71ff34, #ff56, #027940);
+  /* background: linear-gradient(to left, #ff34bf, #f955ff66, #790263); */
 }
 
 .App input {
-  background-color: #71ff34;
+  background-color: #62b7f866;
   color: #020202;
   border: 1px solid white;
   padding: 0.2em;
@@ -12,7 +12,7 @@
 }
 
 .App .addEventButton {
-  background-color:#027940;
+  background-color:#024079;
   color: #ffffff;
   border: none;
   padding: 0.5em;
